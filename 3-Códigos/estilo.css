@@ -1,0 +1,24 @@
+body{
+	background-color: #DCDCDC;
+}
+
+div#redd{	
+	margin-top: 8%;
+	width: 40%;
+	height: 400px;
+	background-color: rgba(85,107,47);
+}
+
+img#imgredd{
+	margin-top: 8%;
+	width: 100px;
+}
+
+a,h1,h2,h3,p{
+	font-family: 'Work Sans', sans-serif;
+	color: white;
+}
+
+h1#teste{
+	color:blue;
+}

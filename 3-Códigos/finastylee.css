@@ -1,0 +1,84 @@
+body{
+	background-color: #DCDCDC;
+}
+
+div#navbar{
+	width: 100%;
+	height: 100px;
+	background-color: #556B2F;
+	display: flex;
+}
+
+img#logo{
+	width: 56px;
+	height: 80px;
+	margin-left: 2%;
+	margin-top: 0.8%;
+}
+
+h1#navtitle{
+	margin-left: 31%;
+	margin-top: 2%;
+	color: white;
+}
+
+a,h1,h2,h3,p{
+	font-family: 'Work Sans', sans-serif;
+}
+
+input{
+	font-family: 'Fjalla One', sans-serif;
+}
+
+
+form{
+
+	margin-top: 5%;
+	width: 40%;
+	height: 400px;
+	background-color: rgba(85,107,47,0.9);
+}	
+
+h2#formtitle{
+	color: white;
+}
+
+#id{
+	color: white;
+	margin-left: -10%;
+	margin-top: 20px;
+}
+
+#boxnome{
+	width: 270px;
+	border-radius: 5px 5px 5px 5px;
+}
+
+#final{
+	color: white;
+	margin-left: -12%;
+}
+
+#selecbox{
+	width: 278px;
+	border-radius: 5px 5px 5px 5px;
+}
+
+#nota{
+	color: white;
+	margin-left: -13%;
+}
+
+#boxassunto{
+	width: 270px;
+	height: 100px;
+	max-width: 270px;
+	border-radius: 5px 5px 5px 5px;
+}
+
+#enviar{
+	width: 90px;
+	height: 30px;
+	margin-top: 2%;
+}
+
